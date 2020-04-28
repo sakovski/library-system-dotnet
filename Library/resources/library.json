@@ -1,0 +1,90 @@
+﻿[
+  {
+    "title": "Harry Potter And The Goblet Of Fire",
+    "author": "J.K. Rowling",
+    "isbn": "0439139600",
+    "isRented": true,
+    "lastRentedBy": {
+      "firstname": "John",
+      "lastname": "Smith"
+    },
+    "lastRented": "2018-01-01"
+  },
+  {
+    "title": "Harry Potter And The Goblet Of Fire",
+    "author": "J.K. Rowling",
+    "isbn": "0439139600",
+    "isRented": true,
+    "lastRentedBy": {
+      "firstname": "Alan",
+      "lastname": "Wellbeck"
+    },
+    "lastRented": "2018-01-02"
+  },
+  {
+    "title": "Harry Potter And The Goblet Of Fire",
+    "author": "J.K. Rowling",
+    "isbn": "0439139600",
+    "isRented": true,
+    "lastRentedBy": {
+      "firstname": "Martin",
+      "lastname": "Higgins"
+    },
+    "lastRented": "2018-03-01"
+  },
+  {
+    "title": "Harry Potter And The Order Of The Phoenix",
+    "author": "J.K. Rowling",
+    "isbn": "0439358078",
+    "isRented": true,
+    "lastRentedBy": {
+      "firstname": "John",
+      "lastname": "Smith"
+    },
+    "lastRented": "2018-04-01"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "isbn": "0439785960",
+    "isRented": true,
+    "lastRentedBy": {
+      "firstname": "Martin",
+      "lastname": "Higgins"
+    },
+    "lastRented": "2018-03-31"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "isbn": "0307474275",
+    "isRented": true,
+    "lastRentedBy": {
+      "firstname": "John",
+      "lastname": "Smith"
+    },
+    "lastRented": "2018-02-12"
+  },
+  {
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "isbn": "1400079152",
+    "isRented": true,
+    "lastRentedBy": {
+      "firstname": "Martin",
+      "lastname": "Higgins"
+    },
+    "lastRented": "2018-03-12"
+  },
+  {
+    "title": "The Lost Symbol",
+    "author": "Dan Brown",
+    "isbn": "0439139600",
+    "isRented": true,
+    "lastRentedBy": {
+      "firstname": "John",
+      "lastname": "Smith"
+    },
+    "lastRented": "2018-03-09"
+  }
+]

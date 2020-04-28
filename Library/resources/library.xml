@@ -1,0 +1,82 @@
+﻿<Books>
+	<Book isRented="false">
+		<Title>Harry Potter And The Goblet Of Fire</Title>
+		<Author>J.K. Rowling</Author>
+		<Isbn>0439139600</Isbn>
+		<LastRented>2018-01-01</LastRented>
+		<LastRentedBy>
+			<Firstname>John</Firstname>
+			<Lastname>Smith</Lastname>
+		</LastRentedBy>
+	</Book>
+	<Book isRented="false">
+		<Title>Harry Potter And The Goblet Of Fire</Title>
+		<Author>J.K. Rowling</Author>
+		<Isbn>0439139600</Isbn>
+		<LastRented>2018-02-01</LastRented>
+		<LastRentedBy>
+			<Firstname>Alan</Firstname>
+			<Lastname>Wellbeck</Lastname>
+		</LastRentedBy>
+	</Book>
+	<Book isRented="false">
+		<Title>Harry Potter And The Goblet Of Fire</Title>
+		<Author>J.K. Rowling</Author>
+		<Isbn>0439139600</Isbn>
+		<LastRented>2018-03-01</LastRented>
+		<LastRentedBy>
+			<Firstname>Martin</Firstname>
+			<Lastname>Higgins</Lastname>
+		</LastRentedBy>
+	</Book>
+	<Book isRented="false">
+		<Title>Harry Potter And The Order Of The Phoenix</Title>
+		<Author>J.K. Rowling</Author>
+		<Isbn>0439358078</Isbn>
+		<LastRented>2018-01-30</LastRented>
+		<LastRentedBy>
+			<Firstname>John</Firstname>
+			<Lastname>Smith</Lastname>
+		</LastRentedBy>
+	</Book>
+	<Book isRented="false">
+		<Title>Harry Potter and the Half-Blood Prince</Title>
+		<Author>J.K. Rowling</Author>
+		<Isbn>0439785960</Isbn>
+		<LastRented>2018-01-31</LastRented>
+		<LastRentedBy>
+			<Firstname>Martin</Firstname>
+			<Lastname>Higgins</Lastname>
+		</LastRentedBy>
+	</Book>
+	<Book isRented="false">
+		<Title>The Da Vinci Code</Title>
+		<Author>Dan Brown</Author>
+		<Isbn>0307474275</Isbn>
+		<LastRented>2018-02-12</LastRented>
+		<LastRentedBy>
+			<Firstname>John</Firstname>
+			<Lastname>Smith</Lastname>
+		</LastRentedBy>
+	</Book>
+	<Book isRented="false">
+		<Title>Inferno</Title>
+		<Author>Dan Brown</Author>
+		<Isbn>1400079152</Isbn>
+		<LastRented>2018-02-12</LastRented>
+		<LastRentedBy>
+			<Firstname>Martin</Firstname>
+			<Lastname>Higgins</Lastname>
+		</LastRentedBy>
+	</Book>
+	<Book isRented="false">
+		<Title>The Lost Symbol</Title>
+		<Author>Dan Brown</Author>
+		<Isbn>0439139600</Isbn>
+		<LastRented>2018-03-09</LastRented>
+		<LastRentedBy>
+			<Firstname>John</Firstname>
+			<Lastname>Smith</Lastname>
+		</LastRentedBy>
+	</Book>
+</Books>

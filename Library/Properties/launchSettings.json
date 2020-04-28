@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Library": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\Workspace\\dotNET\\Projects\\Library\\Library\\resources\\library.json"
+    }
+  }
+}
